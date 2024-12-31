@@ -1,0 +1,12 @@
+[
+    {
+        "turkce": "kelime",
+        "ingilizce": "word",
+        "zorluk": 1
+    },
+    {
+        "turkce": "kelime2",
+        "ingilizce": "word2",
+        "zorluk": 2
+    }
+]
