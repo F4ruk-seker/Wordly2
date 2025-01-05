@@ -1,6 +1,7 @@
 import json
 from database import Session, Kelime
 
+
 def json_dan_yukle(dosya_adi='kelimeler.json'):
     """JSON dosyasından kelimeleri veritabanına yükler"""
     session = Session()

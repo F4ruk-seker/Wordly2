@@ -1,0 +1,10 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  audioplayers: ^5.2.1
+
+flutter:
+  assets:
+    - assets/ 
