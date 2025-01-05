@@ -7,4 +7,5 @@ dependencies:
 
 flutter:
   assets:
-    - assets/ 
+    - assets/
+    - assets/kelimeler.json 
