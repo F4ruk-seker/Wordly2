@@ -10,6 +10,15 @@
   Wordly, Python ve Pygame kullanılarak geliştirilmiş, İngilizce kelime öğrenmeyi eğlenceli hale getiren bir masaüstü uygulamasıdır.
 </div>
 
+
+> [![Youtube link](./.preview/yt-banner-wordly.png)](https://youtu.be/fyBGNFrETls) https://youtu.be/fyBGNFrETls
+
+|![Game](./.preview/game.png)|![Game settings page](./.preview/settings.png)|
+|---|---|
+
+![df](./.preview/df.png)</td>
+
+
 # Curser ile yapıldı 
 
 > cursorun size diyecekleri var 

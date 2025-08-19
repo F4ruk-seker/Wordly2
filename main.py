@@ -64,7 +64,7 @@ TAMAM_BUTON_GENISLIK = 120
 TAMAM_BUTON_YUKSEKLIK = 40
 
 # Global değişkenler
-zorluk_seviyesi = 5  # 1-9 arası
+zorluk_seviyesi = 1  # 1-9 arası
 ses_seviyesi = 0.1   # 0.0-1.0 arası
 ayarlar_acik = False
 

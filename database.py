@@ -106,4 +106,4 @@ def soru_olustur(zorluk) -> dict:
         'dogru_cevap': dogru_kelime.ingilizce,
         'siklar': sik_bilgileri['siklar'],
         'dogru_cevap_index': sik_bilgileri['dogru_cevap_index']
-    } 
+    }
